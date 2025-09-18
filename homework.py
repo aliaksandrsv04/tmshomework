@@ -217,3 +217,5 @@ print(b)
 a = Calculator(Addition())
 a.set_strategy(Division())
 print(a.calculate(1,2))
+
+#end
